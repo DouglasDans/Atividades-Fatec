@@ -58,6 +58,16 @@ header a img{
     display: block !important; 
 }
 
+.video{
+    width: 30%;
+    height: auto;
+    align-self: center;
+    border-radius: 10px;
+}
+
+audio {
+    align-self: center;
+}
 
 main {
     display: flex;
