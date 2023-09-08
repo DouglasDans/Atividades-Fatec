@@ -1,0 +1,7 @@
+npm install express --save
+npm install express-handlebars --save
+npm install mysql2 --save
+npm install sequelize --save
+npm install body-parser --save
+
+pause
